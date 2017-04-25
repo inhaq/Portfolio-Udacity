@@ -16,6 +16,10 @@ img.logo-pic {
     display: block;
 }
 
+.logo {
+    margin-top: 10px;  /* Add this rule so to move the PROFILE IMAGE down slightly. */
+}
+
 .logo-pic {
     border: 1px solid #50a199;
     box-shadow: 0 0 10px #50a199;
