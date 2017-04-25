@@ -17,7 +17,8 @@ body {
 }
 
 .logo {
-    margin-top: 10px;  /* Add this rule to move the PROFILE IMAGE down slightly. */
+    margin-top: 10px;
+    /* Added this rule to move the PROFILE IMAGE down slightly. */
 }
 
 .logo-pic {
